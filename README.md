@@ -80,7 +80,6 @@ The preprocessed dataset is constructed using code from this <a href="https://gi
 GitHub repository</a>.
 <br><br>
 Researchers and practitioners can leverage this preprocessed dataset to advance segmentation algorithms, contribute to medical image analysis, and ultimately improve patient care in cardiovascular medicine.
-
 <br><br>
 <b>License</b><br>
 <a href="https://www.mit.edu/~amini/LICENSE.md">MIT</a>
