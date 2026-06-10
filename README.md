@@ -94,7 +94,6 @@ Researchers and practitioners can leverage this preprocessed dataset to advance 
 <a href="https://drive.google.com/file/d/1wWEOIUBTVe6U4CLRxfBfHW3Ru7MvXSkq/view?usp=sharing">
 Augmented-MSCMR-ImageMask-Dataset.zip
 </a> (<a href="https://www.mit.edu/~amini/LICENSE.md">MIT</a>), 
-which was derived by us from <br><br> , 
 expand the downloaded dataset, and put it under <b>./dataset</b> folder to be:
 <pre>
 ./dataset
